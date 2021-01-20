@@ -5,8 +5,8 @@
 
 ### Prerequisites
 
->Python 3.5 or higher
->Tensorflow 2.0 or higher
+Python 3.5 or higher </br>
+Tensorflow 2.0 or higher
 
 ### Data
 > Dataset can be obtained from https://www.kaggle.com/c/nlp-getting-started/data
